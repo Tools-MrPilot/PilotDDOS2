@@ -40,7 +40,7 @@ print "\033[1;32mThanks   : All Member MCC"
 print "\033[1;32mTingkat  : Newbie Berkarya"
 print
 ip = raw_input("IP Target : ")
-port = input("Port       : ")
+port = input("Port      : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
